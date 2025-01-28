@@ -20,18 +20,16 @@ A classic Snake game built with Java Swing! This project is perfect for learning
 ## Screenshots
 
 ### Game Start
-![Game Start](screenshots/game_start.png)
+![Game Start](./src/screenshots/game_start.png)
 
 
 ### Gameplay
-![Gameplay](screenshots/gameplay.png)
+![Gameplay](./src/screenshots/gameplay.png)
 
 
 ### Game Over
-![Game Over](screenshots/game_over.png)
+![Game Over](./src/screenshots/game_over.png)
 
-
-*(Add these images to a **`screenshots`** folder in your project directory.)*
 
 ---
 
@@ -47,7 +45,7 @@ A classic Snake game built with Java Swing! This project is perfect for learning
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/snake-game.git
+   git clone https://github.com/Ruchi3105/Snake-Game.git
    ```
 
 2. Navigate to the project directory:
