@@ -28,7 +28,7 @@ A classic Snake game built with Java Swing! This project is perfect for learning
 
 
 ### Game Over
-![Game Over](screenshots/game_end.png)
+![Game Over](screenshots/game_over.png)
 
 
 *(Add these images to a **`screenshots`** folder in your project directory.)*
