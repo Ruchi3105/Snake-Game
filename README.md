@@ -20,15 +20,15 @@ A classic Snake game built with Java Swing! This project is perfect for learning
 ## Screenshots
 
 ### Game Start
-
+![Game Start](screenshots/game_start.png)
 
 
 ### Gameplay
-
+![Gameplay](screenshots/gameplay.png)
 
 
 ### Game Over
-
+![Game Over](screenshots/game_end.png)
 
 
 *(Add these images to a **`screenshots`** folder in your project directory.)*
